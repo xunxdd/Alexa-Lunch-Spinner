@@ -13,23 +13,24 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 ```
 
 # Sample utterances
+>
+* user: Alexa, ask Lunch Spinner.
+* Alexa: Welcome. ... Are you ready?
+* user: No
+* Alexa: Cool. Goodbye
 
-```user: Alexa, ask Lunch Spinner.
-Alexa: Welcome. ... Are you ready?
-user: No
-Alexa: Cool. Goodbye
+>
+* user: Alexa, ask Lunch Spinner.
+* Alexa: Welcome to Lunch Spinner. &lt; play Spin-Sound.mp3 /&gt;Have a hard time to decide what and where to have today\'s lunch?  No worries. Let\'s spin the lunch spinner and make a fun choice. Additionally, we will send a fortune cookie quote on your way.
+* user: Yes
+* Alexa: Today the food of choice for your lunch is Sushi. Would you like us to continue to pick a location for you? If you would like to pick something else, please say "Spin Again", otherwise, please say "Yes"
+* user: Spin again
+* Alexa: Today the food of choice for your lunch is Sushi. Would you like us to continue to pick a location for you? If you would like to pick something else, please say "Spin Again", otherwise, please say "Yes"
+* user: Yes
+* Alexa: What is your zip code or City and State?
+* user: 60637
+* Alexa: &lt;audio src="Spin-Sound.mp3" /&gt; Today\'s lucky restaurant is Juno Sushi Chicago. It is located at 2638 N Lincoln Ave, Chicago, IL 60614. It has a customer rating of 4 and it\'s price level is considered moderate. Your fortune cookie quote is You will have a great success soon. Enjoy your lunch
 
-user: Alexa, ask Lunch Spinner.
-Alexa: Welcome to Lunch Spinner. <audio src="Spin-Sound.mp3" /> Have a hard time to decide what and where to have today\'s lunch?  No worries. Let\'s spin the lunch spinner and make a fun choice. Additionally, we will send a fortune cookie quote on your way.
-user: Yes
-Alexa: Today the food of choice for your lunch is Sushi. Would you like us to continue to pick a location for you? If you would like to pick something else, please say "Spin Again", otherwise, please say "Yes"
-user: Spin again
-Alexa: Today the food of choice for your lunch is Sushi. Would you like us to continue to pick a location for you? If you would like to pick something else, please say "Spin Again", otherwise, please say "Yes"
-user: Yes
-Alexa: What is your zip code or City and State?
-user: 60637
-Alexa: <audio src="Spin-Sound.mp3" /> Today\'s lucky restaurant is Juno Sushi Chicago. It is located at 2638 N Lincoln Ave, Chicago, IL 60614. It has a customer rating of 4 and it\'s price level is considered moderate. Your fortune cookie quote is You will have a great success soon. Enjoy your lunch
-```
 
 # Features
 
