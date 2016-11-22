@@ -4,7 +4,7 @@ Have trouble to decide what to eat and where to go for your precious day's preci
 
 Give Alexa Lunch Spinner a try by saying: Alexa, ask Lunch Spinner.
 
-Alexa will happily (playfully) spin its lunch wheel for you and pick a food for you; then based on your location (zip or city and state) and find a restaurant for you. Alexa will also send you some happy fortune cookie quote!
+Alexa will happily (playfully) spin its lunch wheel for you and pick a food for you; then based on your location (zip or city and state) find a restaurant for you. Alexa will also send you some happy fortune cookie quote!
 
 # Installation
 
