@@ -34,7 +34,7 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 
 # Features
 
-- Use alexa-server-app by Matt Kruse
+- The app is built using [alexa-server-app by Matt Kruse] (https://github.com/matt-kruse/alexa-app). 
 - Server side code / food look up using google place api in node js
 - Use SSML to include audio
 
