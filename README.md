@@ -39,7 +39,8 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 - Use SSML to include audio
 
 ### custom slot types
-```{
+```
+{
   "intents": [
     {
       "intent": "AMAZON.YesIntent",
