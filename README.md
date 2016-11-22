@@ -12,7 +12,7 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 	npm install
 ```
 
-# Sample utterances
+# Sample Conversations
 >
 * user: Alexa, ask Lunch Spinner.
 * Alexa: Welcome. ... Are you ready?
@@ -32,13 +32,13 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 * Alexa: &lt;audio src="Spin-Sound.mp3" /&gt; Today\'s lucky restaurant is Juno Sushi Chicago. It is located at 2638 N Lincoln Ave, Chicago, IL 60614. It has a customer rating of 4 and it\'s price level is considered moderate. Your fortune cookie quote is You will have a great success soon. Enjoy your lunch
 
 
-# Features
+# Notes
 
 - The app is built using [alexa-server-app by Matt Kruse] (https://github.com/matt-kruse/alexa-app). 
 - Server side code / food look up using google place api in node js
 - Use SSML to include audio
 
-### custom slot types
+### Custom slot types
 ```
 {
   "intents": [
@@ -100,9 +100,8 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 }
 ```
 
-### utterances
+### Utterances
 
-The utterances syntax allows you to generate many (hundreds or even thousands) of sample utterances using just a few samples that get auto-expanded. Any number of sample utterances may be passed in the utterances array. Below are some sample utterances macros and what they will be expanded to.
 ```
 repickIntent	Spin again
 repickIntent	Spin again please
