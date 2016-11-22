@@ -14,7 +14,7 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 
 # Sample utterances
 
-user: Alexa, ask Lunch Spinner.
+```user: Alexa, ask Lunch Spinner.
 Alexa: Welcome. ... Are you ready?
 user: No
 Alexa: Cool. Goodbye
@@ -29,7 +29,7 @@ user: Yes
 Alexa: What is your zip code or City and State?
 user: 60637
 Alexa: <audio src="Spin-Sound.mp3" /> Today\'s lucky restaurant is Juno Sushi Chicago. It is located at 2638 N Lincoln Ave, Chicago, IL 60614. It has a customer rating of 4 and it\'s price level is considered moderate. Your fortune cookie quote is You will have a great success soon. Enjoy your lunch
-
+```
 
 # Features
 
