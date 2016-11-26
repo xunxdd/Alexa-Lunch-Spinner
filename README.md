@@ -31,6 +31,8 @@ Alexa will happily (playfully) spin its lunch wheel for you and pick a food for 
 * user: 60637
 * Alexa: &lt;audio src="Spin-Sound.mp3" /&gt; Today\'s lucky restaurant is Juno Sushi Chicago. It is located at 2638 N Lincoln Ave, Chicago, IL 60614. It has a customer rating of 4 and it\'s price level is considered moderate. Your fortune cookie quote is You will have a great success soon. Enjoy your lunch
 
+# Video Demo
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Rq5w0Amwz9Y/default.jpg?sqp=CMTa58EF&rs=AOn4CLD0ztkXMv0qufWSmUedZXtRfqQ3mQ)](https://www.youtube.com/watch?v=Rq5w0Amwz9Y)
 
 # Notes
